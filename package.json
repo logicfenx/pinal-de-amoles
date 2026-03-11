@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/pinal-de-amoles",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a pinal-de-amoles",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/pinal-de-amoles.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://sitiosweb.mx/pinal-de-amoles/"
+    },
+    "homepage": "https://sitiosweb.mx/pinal-de-amoles/"
+}
